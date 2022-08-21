@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">EMI Calculator</string>
+    <string name="txtBtnPayment">EMI Payment</string>
+    <string name="hintNumberYears">Number of Years</string>
+    <string name="hintLoanAmount">Loan Amount</string>
+    <string name="hintInterestRare">Rate of Interest</string>
+    <string name="txtMonthlyEMI">EMI to be paid</string>
+    <string name="txtToolMonthlyPayment">Monthly Payment</string>
+</resources>
